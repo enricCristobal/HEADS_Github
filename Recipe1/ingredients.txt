@@ -2,4 +2,3 @@ onions
 bread
 chocolate
 oranges
-lime
